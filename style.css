@@ -1,0 +1,33 @@
+div{
+    text-align: center;
+    margin-top: 50px;
+}
+h2{
+    color: white;
+    text-transform: uppercase;
+}
+p{
+    color: white;
+}
+html{
+    background-color: black;
+}
+img{
+    border: 3px solid white;
+    height: 230px;
+}
+h1{
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+#linktext{
+    text-align: right;
+}
